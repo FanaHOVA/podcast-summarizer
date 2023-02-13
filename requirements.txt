@@ -1,0 +1,9 @@
+nba_api
+pandas
+langchain
+yt-dlp
+openai-whisper
+python-dotenv
+openai
+tiktoken
+nltk
